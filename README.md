@@ -1,7 +1,7 @@
 # Enviro-Setup-Packs
  My paper experimental environment installation package. This repository contains scripts and configurations used to set up the computational environment for my research experiments.
 
-Tested and confirmed: WSL on Windows can also set up the environment using the following installation steps.
+> Tested and confirmed: WSL on Windows can also set up the environment using the following installation steps.
 
 ## Installation Instructions
 Here are some other repositories that might be of interest:
