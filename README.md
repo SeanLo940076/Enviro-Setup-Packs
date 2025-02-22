@@ -2,6 +2,7 @@
  My paper experimental environment installation package. This repository contains scripts and configurations used to set up the computational environment for my research experiments.
 
 > Tested and confirmed: WSL on Windows can also set up the environment using the following installation steps.
+> If you have already installed the NVIDIA driver in Windows, you can first test it with the command "nvidia-smi". If the function is normal, you do not need to reinstall the NVIDIA driver
 
 ## Installation Instructions
 Here are some other repositories that might be of interest:
